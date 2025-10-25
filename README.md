@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/478091e1-0cce-4d95-9eea-35efd3da0b21)
+![505672220-478091e1-0cce-4d95-9eea-35efd3da0b21](https://github.com/user-attachments/assets/50ba1b5e-0e2c-476d-978e-5c8cd88d6090)
+
 
 # 🐢 Slow Launcher Plugins
 
