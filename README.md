@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/478091e1-0cce-4d95-9eea-35efd3da0b21)
+
 # 🐢 Slow Launcher Plugins
 
 A collection of community and experimental plugins made for the **Slow Launcher Prototype**.
